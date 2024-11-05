@@ -61,7 +61,7 @@ class ViewProfileScreen extends StatelessWidget {
                             borderRadius: BorderRadius.circular(12),
                           ),
                         ),
-                        child: const Text("Back to Home"),
+                        child: const Text("Regresar a Inicio"),
                       ),
                     ),
                   ],
